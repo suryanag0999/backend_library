@@ -28,7 +28,7 @@ backend/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/suryanag0999/library-management-system.git
 cd library-management-system/backend
 ```
 
