@@ -90,5 +90,5 @@ Feel free to contribute by creating pull requests! 🚀
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-Made with ❤️ by **[Your Name]**
+Made with ❤️ by **suryanag**
 
